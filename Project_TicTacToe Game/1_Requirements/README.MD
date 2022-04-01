@@ -50,7 +50,25 @@ It can help to improve a person's concentration as well as strategic thinking
 * If not, then it again checks if it is a draw situation.
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/swot.png?raw=true)
+
+## Strengths:
+* Improve concentration. 
+* Intresting to play.
+* Develop playing skills.
+
+## Weaknesses
+* Can be addictive.
+* your oppenent is always a computer.
+
+## Opurtunities
+* Intresting activity for kids.
+* It helps to improve child's mind and ability to play.
+* prepares for more complex games.
+* helps to develop business tactics.
+
+## Threats
+* Somewhat demotivating because it is not easy to beat computer.
+* No visual effects.
 
 # 4W&#39;s and 1&#39;H
 
